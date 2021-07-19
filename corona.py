@@ -12,6 +12,8 @@ from lib import cc, translate
 # copy machine -- https://www.uniprot.org/uniprot/Q0ZJN1
 # zhanglab breaks this down into many more proteins
 
+# teste
+
 corona = {}
 
 # begin: 266 base pairs "untranslated"
